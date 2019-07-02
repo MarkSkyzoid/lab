@@ -331,3 +331,6 @@ ASALocalRun/
 
 # Executables
 *.exe
+
+# VS Code
+.vscode/
