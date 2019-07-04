@@ -3,6 +3,9 @@
 #include <functional>
 #include <memory>
 
+// Initial implementation based on Sean Parent's ligthting talk "Polymorphic Task Template in Ten Minutes" at Meeting C++ 2017
+// std::function like object to execute and hold a generic callable object
+
 namespace mtl
 {
     template <class>
